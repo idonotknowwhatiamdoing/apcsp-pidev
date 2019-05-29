@@ -10,4 +10,4 @@ struct student
 	int studentid;
 };
 
-void printStudent(struct student* s)
+void printStudent(struct student* s);

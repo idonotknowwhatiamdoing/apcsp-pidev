@@ -1,4 +1,4 @@
-#include "standard "
+#include "stdio.h"
 #include "student.h"
 
 void printStudent(struct student* s)
